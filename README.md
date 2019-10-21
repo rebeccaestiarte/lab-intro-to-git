@@ -97,7 +97,7 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
 
-Go ahead and add the changes of your fie to the *Staging Area*.
+Go ahead and add the changes of your file to the *Staging Area*.
 
 ### Step 4 - Modifying the previous commit
 
