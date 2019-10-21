@@ -147,7 +147,7 @@ Now, open the file `about-myself.md` and write 3 hobbies of yours. You can use t
 *
 ```
 
-Once you're done, save the changes and close the file. Now add it to the *Staging Area* using `git add` and finally use `git commit amend` to commit the changes. Now a text editor will pop up and you will see the previous commit message, you can change the commit message if you want or keep it. Once you are done, save the changes and close the editor and your previous commit will have all the new changes.
+Once you're done, save the changes and close the file. Now add it to the *Staging Area* using `git add` and finally use `git commit --amend` to commit the changes. Now a text editor will pop up and you will see the previous commit message, you can change the commit message if you want or keep it. Once you are done, save the changes and close the editor and your previous commit will have all the new changes.
 
 ### Step 5 - Merge changes into master
 
