@@ -8,3 +8,7 @@
 * Reading
 * Fitness
 * Beach Volley
+
+#Birthday Place
+
+Pescara, Italy
