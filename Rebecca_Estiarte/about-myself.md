@@ -5,10 +5,4 @@
 
 #Hobbies
 
-* Reading
-* Fitness
-* Beach Volley
-
-#Birthday Place
-
-Pescara, Italy
+****** Introducing conflict *******
